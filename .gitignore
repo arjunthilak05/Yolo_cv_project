@@ -1,0 +1,43 @@
+# Dataset (cloned from external source)
+Car-Parts-Segmentation/
+
+# YOLO training outputs (generated during training)
+car_parts_yolo/
+car_parts_yolo_training/
+runs/
+
+# Model weights (large binary files)
+*.pt
+*.pth
+*.weights
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Generated visualizations
+prediction_*.jpg
+prediction_*.png
+training_curves.png
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.cache
