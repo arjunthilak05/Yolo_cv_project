@@ -1,0 +1,102 @@
+{
+  "most_difficult_class": "left_mirror",
+  "most_difficult_mAP": 0.33347806662150775,
+  "class_ranking": [
+    [
+      "left_mirror",
+      0.33347806662150775
+    ],
+    [
+      "wheel",
+      0.3465073934356763
+    ],
+    [
+      "front_left_light",
+      0.3515326286646314
+    ],
+    [
+      "back_left_light",
+      0.35935638554996835
+    ],
+    [
+      "back_right_door",
+      0.36227335371138913
+    ],
+    [
+      "right_mirror",
+      0.3700077834943338
+    ],
+    [
+      "front_right_light",
+      0.384105807977918
+    ],
+    [
+      "front_right_door",
+      0.4222726307155173
+    ],
+    [
+      "back_left_door",
+      0.4377488823673432
+    ],
+    [
+      "back_right_light",
+      0.44093320734996644
+    ],
+    [
+      "front_left_door",
+      0.4618881338481417
+    ],
+    [
+      "_background_",
+      0.5255163671143832
+    ],
+    [
+      "trunk",
+      0.5889704580626196
+    ],
+    [
+      "back_glass",
+      0.6348344864606191
+    ],
+    [
+      "tailgate",
+      0.71995144950874
+    ],
+    [
+      "hood",
+      0.7665134348166167
+    ],
+    [
+      "back_bumper",
+      0.7881604464012424
+    ],
+    [
+      "front_bumper",
+      0.830071890957041
+    ],
+    [
+      "front_glass",
+      0.860688168115624
+    ]
+  ],
+  "test_set_counts": {
+    "back_glass": 20,
+    "tailgate": 7,
+    "back_left_light": 20,
+    "back_right_light": 20,
+    "back_bumper": 18,
+    "wheel": 108,
+    "left_mirror": 55,
+    "back_left_door": 31,
+    "front_left_door": 35,
+    "right_mirror": 60,
+    "front_glass": 74,
+    "hood": 74,
+    "front_right_light": 67,
+    "front_bumper": 74,
+    "front_right_door": 39,
+    "back_right_door": 29,
+    "front_left_light": 62,
+    "trunk": 18
+  }
+}
